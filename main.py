@@ -35,7 +35,7 @@ def calculator():
                     fraction = intlist[:1] / intlist[1:]
                     print(fraction)
             else:
-                print('Error: Expression can only contain of 3 symbols')
+                print('Error: Expression can only contain of 3 symbols'
 
 
 
