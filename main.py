@@ -11,7 +11,7 @@ def dududu():
                 positive.append(i)
             if i < 0:
                negative.append(i)
-       print(f'positive numbers are: {positive}/nNegative numbers are: {negative}')
+       print(f'positive numbers are: {positive}\nNegative numbers are: {negative}')
 
 
    except Exception as ex:
